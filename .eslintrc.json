@@ -20,6 +20,8 @@
     "rules": {
         "class-methods-use-this": "off",
         "no-use-before-define": "off",
+        //"no-console": "off",
+        //"camelcase": "off",
         "@typescript-eslint/no-use-before-define": [
 	      "error"
       ],
