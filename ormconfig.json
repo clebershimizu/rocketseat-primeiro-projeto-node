@@ -5,6 +5,7 @@
   "username": "postgres",
   "password": "dockerino",
   "database": "gostack_gobarber",
+  "synchronize": true,
   "entities": [
     "./src/models/*.ts"
   ],
